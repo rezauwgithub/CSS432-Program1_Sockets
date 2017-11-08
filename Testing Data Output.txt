@@ -1,0 +1,67 @@
+nbufs -> 100, bufsize -> 15
+Test 1: data-sending time = 579855 usec, round-trip time = 580554 usec, #reads = 25758
+Test 1: data-sending time = 588106 usec, round-trip time = 588753 usec, #reads = 26540
+Test 1: data-sending time = 579867 usec, round-trip time = 580751 usec, #reads = 26478
+Test 1: data-sending time = 584752 usec, round-trip time = 585338 usec, #reads = 26294
+Test 1: data-sending time = 578803 usec, round-trip time = 579399 usec, #reads = 25860
+Test 2: data-sending time = 244058 usec, round-trip time = 265350 usec, #reads = 21039
+Test 2: data-sending time = 242477 usec, round-trip time = 259285 usec, #reads = 22210
+Test 2: data-sending time = 237472 usec, round-trip time = 258951 usec, #reads = 21694
+Test 2: data-sending time = 238265 usec, round-trip time = 258687 usec, #reads = 22432
+Test 2: data-sending time = 249290 usec, round-trip time = 265905 usec, #reads = 21040
+Test 3: data-sending time = 237544 usec, round-trip time = 258750 usec, #reads = 21027
+Test 3: data-sending time = 239951 usec, round-trip time = 262653 usec, #reads = 21042
+Test 3: data-sending time = 233542 usec, round-trip time = 259260 usec, #reads = 22312
+Test 3: data-sending time = 232972 usec, round-trip time = 257440 usec, #reads = 22119
+Test 3: data-sending time = 241214 usec, round-trip time = 257806 usec, #reads = 21263
+
+nbufs -> 60, bufsize -> 25
+Test 1: data-sending time = 363039 usec, round-trip time = 363861 usec, #reads = 22869
+Test 1: data-sending time = 382392 usec, round-trip time = 383365 usec, #reads = 23304
+Test 1: data-sending time = 364338 usec, round-trip time = 365216 usec, #reads = 23143
+Test 1: data-sending time = 369906 usec, round-trip time = 370970 usec, #reads = 22966
+Test 1: data-sending time = 375618 usec, round-trip time = 376314 usec, #reads = 22970
+Test 2: data-sending time = 242139 usec, round-trip time = 259145 usec, #reads = 22032
+Test 2: data-sending time = 237799 usec, round-trip time = 258499 usec, #reads = 22245
+Test 2: data-sending time = 239018 usec, round-trip time = 258016 usec, #reads = 21853
+Test 2: data-sending time = 240104 usec, round-trip time = 258521 usec, #reads = 21132
+Test 2: data-sending time = 239040 usec, round-trip time = 257826 usec, #reads = 21681
+Test 3: data-sending time = 238084 usec, round-trip time = 257772 usec, #reads = 21468
+Test 3: data-sending time = 240176 usec, round-trip time = 257390 usec, #reads = 21083
+Test 3: data-sending time = 236995 usec, round-trip time = 257767 usec, #reads = 22491
+Test 3: data-sending time = 241276 usec, round-trip time = 257736 usec, #reads = 22335
+Test 3: data-sending time = 235849 usec, round-trip time = 257449 usec, #reads = 21295
+
+nbufs -> 30, bufsize -> 50
+Test 1: data-sending time = 248866 usec, round-trip time = 268900 usec, #reads = 21571
+Test 1: data-sending time = 252758 usec, round-trip time = 271136 usec, #reads = 21485
+Test 1: data-sending time = 247291 usec, round-trip time = 266199 usec, #reads = 21457
+Test 1: data-sending time = 246757 usec, round-trip time = 269743 usec, #reads = 21109
+Test 1: data-sending time = 252880 usec, round-trip time = 270782 usec, #reads = 21832
+Test 2: data-sending time = 234212 usec, round-trip time = 257553 usec, #reads = 21986
+Test 2: data-sending time = 238653 usec, round-trip time = 257913 usec, #reads = 22059
+Test 2: data-sending time = 236333 usec, round-trip time = 257965 usec, #reads = 21952
+Test 2: data-sending time = 236330 usec, round-trip time = 257705 usec, #reads = 22350
+Test 2: data-sending time = 241280 usec, round-trip time = 257630 usec, #reads = 21532
+Test 3: data-sending time = 236978 usec, round-trip time = 257503 usec, #reads = 21392
+Test 3: data-sending time = 245552 usec, round-trip time = 265891 usec, #reads = 21051
+Test 3: data-sending time = 237862 usec, round-trip time = 259564 usec, #reads = 21036
+Test 3: data-sending time = 234458 usec, round-trip time = 257515 usec, #reads = 22171
+Test 3: data-sending time = 241855 usec, round-trip time = 260010 usec, #reads = 21109
+
+nbufs -> 15, bufsize -> 100
+Test 1: data-sending time = 235924 usec, round-trip time = 257692 usec, #reads = 21263
+Test 1: data-sending time = 236916 usec, round-trip time = 259565 usec, #reads = 21201
+Test 1: data-sending time = 240375 usec, round-trip time = 257699 usec, #reads = 21152
+Test 1: data-sending time = 241538 usec, round-trip time = 257696 usec, #reads = 22335
+Test 1: data-sending time = 241871 usec, round-trip time = 258542 usec, #reads = 21590
+Test 2: data-sending time = 235176 usec, round-trip time = 257623 usec, #reads = 21785
+Test 2: data-sending time = 236118 usec, round-trip time = 257685 usec, #reads = 21888
+Test 2: data-sending time = 236673 usec, round-trip time = 257589 usec, #reads = 21815
+Test 2: data-sending time = 237752 usec, round-trip time = 259632 usec, #reads = 21029
+Test 2: data-sending time = 240531 usec, round-trip time = 257599 usec, #reads = 21371
+Test 3: data-sending time = 234500 usec, round-trip time = 257523 usec, #reads = 21242
+Test 3: data-sending time = 236843 usec, round-trip time = 257639 usec, #reads = 22428
+Test 3: data-sending time = 237352 usec, round-trip time = 257851 usec, #reads = 22472
+Test 3: data-sending time = 238413 usec, round-trip time = 257521 usec, #reads = 22024
+Test 3: data-sending time = 238524 usec, round-trip time = 257478 usec, #reads = 22532

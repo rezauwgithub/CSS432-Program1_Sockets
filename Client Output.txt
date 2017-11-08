@@ -1,0 +1,30 @@
+
+
+From uw1-320-10 To uw1-320-00:
+Test 1: data-sending time = 242763 usec, round-trip time = 259284 usec, #reads = 21031
+Test 2: data-sending time = 235543 usec, round-trip time = 257629 usec, #reads = 21155
+Test 3: data-sending time = 237275 usec, round-trip time = 257253 usec, #reads = 21795
+Test 1: data-sending time = 244275 usec, round-trip time = 264833 usec, #reads = 22422
+Test 2: data-sending time = 235770 usec, round-trip time = 257810 usec, #reads = 21023
+Test 3: data-sending time = 242500 usec, round-trip time = 261694 usec, #reads = 21041
+Test 1: data-sending time = 364452 usec, round-trip time = 365245 usec, #reads = 22753
+Test 2: data-sending time = 244767 usec, round-trip time = 262696 usec, #reads = 21042
+Test 3: data-sending time = 238347 usec, round-trip time = 257791 usec, #reads = 21694
+Test 1: data-sending time = 576697 usec, round-trip time = 577533 usec, #reads = 26147
+Test 2: data-sending time = 240496 usec, round-trip time = 259296 usec, #reads = 21461
+Test 3: data-sending time = 239157 usec, round-trip time = 262758 usec, #reads = 21041
+
+
+From Localhost (127.0.0.1) To Localhost (127.0.0.1):
+Test 1: data-sending time = 206577 usec, round-trip time = 208260 usec, #reads = 44966
+Test 2: data-sending time = 29710 usec, round-trip time = 29716 usec, #reads = 20434
+Test 3: data-sending time = 17023 usec, round-trip time = 17028 usec, #reads = 20037
+Test 1: data-sending time = 406623 usec, round-trip time = 408131 usec, #reads = 71183
+Test 2: data-sending time = 34728 usec, round-trip time = 74760 usec, #reads = 20433
+Test 3: data-sending time = 18491 usec, round-trip time = 57804 usec, #reads = 20194
+Test 1: data-sending time = 766303 usec, round-trip time = 767572 usec, #reads = 118683
+Test 2: data-sending time = 41851 usec, round-trip time = 41856 usec, #reads = 20434
+Test 3: data-sending time = 21152 usec, round-trip time = 58477 usec, #reads = 20135
+Test 1: data-sending time = 1253552 usec, round-trip time = 1254761 usec, #reads = 180919
+Test 2: data-sending time = 54892 usec, round-trip time = 54897 usec, #reads = 20434
+Test 3: data-sending time = 27382 usec, round-trip time = 65862 usec, #reads = 20197

@@ -1,0 +1,53 @@
+
+
+From uw1-320-10 to uw1-320-00:
+Waiting for Number Of Buffers -> 15, type -> 1
+data-receiving time = 258952 usec
+Waiting for Number Of Buffers -> 15, type -> 2
+data-receiving time = 257225 usec
+Waiting for Number Of Buffers -> 15, type -> 3
+data-receiving time = 256914 usec
+Waiting for Number Of Buffers -> 30, type -> 1
+data-receiving time = 264461 usec
+Waiting for Number Of Buffers -> 30, type -> 2
+data-receiving time = 257426 usec
+Waiting for Number Of Buffers -> 30, type -> 3
+data-receiving time = 261266 usec
+Waiting for Number Of Buffers -> 60, type -> 1
+data-receiving time = 364805 usec
+Waiting for Number Of Buffers -> 60, type -> 2
+data-receiving time = 262166 usec
+Waiting for Number Of Buffers -> 60, type -> 3
+data-receiving time = 257510 usec
+Waiting for Number Of Buffers -> 100, type -> 1
+data-receiving time = 576994 usec
+Waiting for Number Of Buffers -> 100, type -> 2
+data-receiving time = 258834 usec
+Waiting for Number Of Buffers -> 100, type -> 3
+data-receiving time = 262368 usec
+
+From Localhost to Localhost:
+Waiting for Number Of Buffers -> 15, type -> 1
+data-receiving time = 206889 usec
+Waiting for Number Of Buffers -> 15, type -> 2
+data-receiving time = 29289 usec
+Waiting for Number Of Buffers -> 15, type -> 3
+data-receiving time = 15873 usec
+Waiting for Number Of Buffers -> 30, type -> 1
+data-receiving time = 403164 usec
+Waiting for Number Of Buffers -> 30, type -> 2
+data-receiving time = 74395 usec
+Waiting for Number Of Buffers -> 30, type -> 3
+data-receiving time = 56694 usec
+Waiting for Number Of Buffers -> 60, type -> 1
+data-receiving time = 764496 usec
+Waiting for Number Of Buffers -> 60, type -> 2
+data-receiving time = 41474 usec
+Waiting for Number Of Buffers -> 60, type -> 3
+data-receiving time = 57324 usec
+Waiting for Number Of Buffers -> 100, type -> 1
+data-receiving time = 1251755 usec
+Waiting for Number Of Buffers -> 100, type -> 2
+data-receiving time = 54485 usec
+Waiting for Number Of Buffers -> 100, type -> 3
+data-receiving time = 61199 usec
